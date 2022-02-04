@@ -6,7 +6,7 @@
 
 
 <!-- Quote -->
-<p align="center">꧁𓊈𒆜🅲🅷🅰🆁🅻🅴🆂'🆂 🅲🅾🅳🅴 & 🅿🅾🆁🆃🅵🅾🅻🅸🅾𒆜𓊉꧂
+<p align="center">ミ★ 𝘊𝘩𝘢𝘳𝘭𝘦𝘴'𝘴 𝘊𝘰𝘥𝘦 & 𝘗𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰 ★彡
   
   <!-- Social Network -->
 <h1 align="center">
