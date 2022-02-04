@@ -84,10 +84,10 @@
       <div align="center">
     </p>
     
-<a href="https://github.com/Lunox-code?tab=repositories">
+<a href="https://github.com/Mrcwr2?tab=repositories">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='Lunox's favorite languages" />
+       src="https://camo.githubusercontent.com/610b8deb85e8b7467cc3c8a6a0bb0dcf006988024d9caba1dd1d875dc0b4b1ab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d68696768636f6e7472617374" 
+       alt='Charles's favorite languages" />
 </a>
   
 <a href="https://github.com/Lunox-code">
