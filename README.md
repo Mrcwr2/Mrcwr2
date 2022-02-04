@@ -47,7 +47,7 @@
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
-  <code><img height="40" src="https://www.gensagroup.com/wp-content/uploads/2020/08/Power-BI-Desktop-Feature-image.jpg"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/768px-New_Power_BI_Logo.svg.png"></code>
   <code><img height="40" src="https://aux.iconspalace.com/uploads/17705097992139781671.png"></code>
   <code><img height="40" src="https://www.clipartmax.com/png/full/118-1183902_0-microsoft-office-access-2007-level-1.png"></code>
   <code><img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png"></code>
