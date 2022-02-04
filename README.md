@@ -63,15 +63,16 @@
   
 &nbsp;  
 
-  <!-- Skills to learn -->
+
+  <!-- Skills I have learned -->
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
   
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152594683-59faa97c-bc66-4f88-a277-898249fa5215.PNG"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152595342-4f839bf7-2481-4f7f-92cd-140234ba28a6.PNG"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152596403-a560d9c7-8ab6-4eb2-8973-21901f0ae205.PNG"></code>  
+  <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152597036-b6818600-7d79-406b-a509-f370be130e25.PNG"></code> 
+  <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152597239-e7eca7b3-1821-4fb4-b811-6832a80b6580.PNG"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152597524-5f15e178-e8af-428c-aaa9-5557c874a136.PNG"></code>
   
   </p>
 &nbsp;
