@@ -65,7 +65,7 @@
 
 
   <!-- Skills I have learned -->
-<p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
+<p><H3 align="center"><strong>Certified Skills I have learned: 🌐</strong></p>
   
   <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152594683-59faa97c-bc66-4f88-a277-898249fa5215.PNG"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152595342-4f839bf7-2481-4f7f-92cd-140234ba28a6.PNG"></code>
