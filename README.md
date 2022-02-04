@@ -6,7 +6,7 @@
 
 
 <!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code
+<p align="center">꧁𓊈𒆜🅲🅷🅰🆁🅻🅴🆂'🆂 🅲🅾🅳🅴 & 🅿🅾🆁🆃🅵🅾🅻🅸🅾𒆜𓊉꧂
   
   <!-- Social Network -->
 <h1 align="center">
