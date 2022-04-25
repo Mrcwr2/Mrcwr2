@@ -67,13 +67,14 @@
   <!-- Skills I have learned -->
 <p><H3 align="center"><strong>Certified Skills I have learned: 🌐</strong></p>
   
+  <code><img height="40" src="https://user-images.githubusercontent.com/40834093/165098733-c2d4559f-abda-425b-9a86-a2d276ccf7ae.PNG"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152594683-59faa97c-bc66-4f88-a277-898249fa5215.PNG"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152595342-4f839bf7-2481-4f7f-92cd-140234ba28a6.PNG"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152596403-a560d9c7-8ab6-4eb2-8973-21901f0ae205.PNG"></code>  
   <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152597036-b6818600-7d79-406b-a509-f370be130e25.PNG"></code> 
   <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152597239-e7eca7b3-1821-4fb4-b811-6832a80b6580.PNG"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/40834093/152597524-5f15e178-e8af-428c-aaa9-5557c874a136.PNG"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/40834093/165098733-c2d4559f-abda-425b-9a86-a2d276ccf7ae.PNG"></code>
+  
   
   </p>
 &nbsp;
